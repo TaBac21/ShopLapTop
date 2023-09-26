@@ -1,0 +1,36 @@
+
+.row .anhkh{
+    margin-top: 70px;
+    margin-left: 200px;
+    /* background-color: aqua; */
+    position: relative;
+    
+}
+.row .anhkh img {
+    width: 70%;
+    
+}
+.row .ttkh {
+    margin-top: 50px;
+    /* background-color: aquamarine; */
+    margin-left: 20px;
+    /* text-align: center; */
+}
+.ttkh h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.tt .ott td {
+    width: 350px;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    /* background: blue; */
+} 
+.tt .ott .aa{
+    line-height: 50px;
+}
+.nutql{
+    margin-left: 170px !important;
+}
+

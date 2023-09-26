@@ -1,0 +1,156 @@
+        .lh img{
+            width: 500px;
+            height: 350px;
+            margin: 200px 0px 270px 100px;
+        }
+        .title{
+            margin-top: -600px;
+        }
+        .title .p1 {
+            margin-left: 778px;
+            font-size: 20px; 
+            font-family: 'Barlow Condensed', sans-serif;
+        }
+        h1 {
+            font-family: 'Dancing Script', cursive;
+            text-align: center;
+            /* margin-top: -400px; */
+            margin-left: 580px;
+            font-size: 50px;
+        }
+        
+        #dc1 ul{
+            margin: 0px;
+            margin-left: 270px;
+            font-size: 20px;
+            
+
+        }
+        #dc1 ul li {
+            list-style: none;
+            float: left;
+            padding: 0px 0px 0px 440px ;
+        
+        }
+        #dc1 ul li {
+            color:#8A2908; 
+            margin-left: 36px;
+        }
+        
+        #dc1 ul li a{
+            text-decoration: none;
+            font-family: 'Barlow Condensed', sans-serif;
+            color: black;
+            
+        }
+        #sdt1 ul{
+            margin: 0px;
+            margin-left: 750px;
+            padding-right: 50px;
+            float: left;
+        }
+        #sdt1 ul li {
+            list-style: none;
+            float: left;
+            margin-top: 5px;
+        }
+        #sdt1 ul li i {
+            margin-right:10px;"
+        }
+        #sdt1 ul li a{
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+            font-family: 'Barlow Condensed', sans-serif;
+        }
+        #fb ul{
+            margin: 0px;
+            margin-left: 470px;
+            margin-bottom: 60px;
+        }
+        #fb ul li {
+            list-style: none;
+            float: left;
+        padding: 0px 27px 0px 290px;
+        }
+        #fb ul li a{
+            color: blue;
+            font-size: 30px;
+        }
+        #fb ul li a:hover{
+        color: lime;
+        
+        }
+        #twiter ul{
+            margin: 0px;
+            margin-bottom: 60px;
+        }
+        #twiter ul li {
+            list-style: none;
+            float: left;
+        padding: 0px 40px;
+        }
+        #twiter ul li a{
+            color: #00F5FF;
+            font-size: 30px;
+        }
+        #twiter ul li a:hover{
+        color: lime;
+        }
+        #gg ul{
+            margin: 0px;
+            margin-bottom: 60px;
+        }
+        #gg ul li {
+            list-style: none;
+            float: left;
+        padding: 0px 30px;
+        }
+        #gg ul li a{
+            color: #FF0000;
+            font-size: 30px;
+        }
+        #gg ul li a:hover{
+        color: lime;
+        }
+        #inst ul{
+            margin: 0px;
+            margin-bottom: 60px;
+        }
+        #inst ul li {
+            list-style: none;
+            float: left;
+        padding: 0px 30px;
+        }
+        #inst ul li a{
+            color: #FF00CC;
+            font-size: 30px;
+        }
+        #inst ul li a:hover{
+        color: lime;
+        
+        }
+
+        h1{
+        font-family: tahoma;
+        }
+        #ttin ul{
+            margin: 0px;
+            margin-left: 460px;
+            margin-top: 50px;
+            font-size: 20px;
+
+        }
+        #ttin ul li {
+        list-style: none;
+        float: left;
+        padding: 20px 190px;
+        margin-left: 87px;
+        text-align:center;
+        
+        }
+        #ttin ul li a{
+        text-decoration: none;
+        font-family: 'Barlow Condensed', sans-serif;
+        color: black;   
+        }

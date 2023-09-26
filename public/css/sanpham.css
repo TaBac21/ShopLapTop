@@ -1,0 +1,36 @@
+.sanpham .spnb {
+    padding: 0 100px;
+}
+.spnb .sp{
+    max-width: 249.96px;
+}
+.sp .sp1 {
+    margin-left: 15px;
+}
+.sp .sp1 h2 {
+    position: absolute;
+    bottom: 20px;
+    
+}
+.sp:hover {
+    transition: .2s;
+    transform: translateY(-1px);
+    box-shadow: 0 1px 15px 0 rgba(0, 0, 0, 0.3);
+}
+.tieude_sptdm {
+    margin-top: 135px;
+    text-align: center;
+    margin-left: 518px;
+}
+.tieude_sptdm p {
+    width: 450px;
+    font-size: 30px;
+    font-weight: 500;
+    border-bottom: solid 2px gray;
+}
+.loailaptop1 {
+   margin-top: 50px;
+    box-shadow: 8px -5px 5px #3A01DF;
+    line-height: 30px;
+    margin-left: 20px; 
+}

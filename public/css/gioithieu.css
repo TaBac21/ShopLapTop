@@ -1,0 +1,117 @@
+.gt{
+    margin-top: 150px;
+    margin-left: 117px;
+}
+.gt h1{
+    font-size: 20px;
+}
+.gt h2{
+    font-size: 15px;
+}
+.content .row{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+/* .content .row .col-5{
+        background: blueviolet;
+        
+} */
+.content .row .col-5 img{
+    width: 300px;
+    height: 400px;
+    float: left;
+    padding-right: 20px;
+}
+.row .col-5 .haianh img{
+    width: 190px;
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+}
+.haianh img{
+    width: 200px;
+    height: 150px;     
+}
+.content .row .col-6{
+        margin-left: 20px;
+        /* font-family: 'Odibee Sans', cursive;     */
+}
+    
+.container {
+    margin-top: 50px;
+    width: 950px;
+    /* height: 500px; */
+}
+
+.card {
+    border: 2px solid blue;
+    border-radius: 50px;
+    box-shadow: 8px -5px 5px #3A01DF;
+}
+
+@media(max-width:767px) {
+    .card {
+        margin: 1rem 0.7rem 1rem;
+        max-width: 80vw;
+    }
+}
+
+.card-image img {
+    width: 8rem;
+    border-radius: 4rem;
+    margin: 1.3rem auto 1rem auto;
+    width: 300px;
+    height: 200px;
+}
+
+.row .col-md-4 {
+    width: 400px;
+    height: 600px;
+    padding: 0 0.5rem;
+}
+.row .gioithieu5 {
+    margin-top: -74px;
+}
+.card-image{
+display: block;
+/* max-width:100%;
+max-height:100%; */
+}
+
+.card-title {
+    font-size: 22px;
+    margin-bottom: 0;
+    font-weight: bold;
+    font-family: 'IM Fell French Canon SC';
+}
+
+.card-text {
+    text-align: center;
+    padding: 1rem 2rem;
+    font-size: 18px;
+    color: rgb(82, 81, 81);
+    line-height: 1.4rem;
+}
+    
+p{
+    font-size: 15px;
+}
+    
+
+.dm {
+    border-top: none;
+    text-align: center;
+    line-height: 1.2rem;
+    padding: 2rem 0 1.4rem 0;
+    font-family: 'Varela Round';
+    color: blue;
+}
+
+#name {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#position {
+    font-size: 0.7rem;
+}

@@ -1,0 +1,185 @@
+.ha {
+    float: left;
+    width: 182px;
+    height: 90px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.nv {
+    flex: 1;
+    margin-top: 30px;
+    left: 100px;
+    display: flex;
+    float: left;
+}
+
+.nv ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 6px 6px;
+    position: relative;
+}
+
+.nv ul li a {
+    font-family: 'Monda', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+.nv ul li::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #0000FF;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.nv ul li:hover::after {
+    width: 100%;
+}
+
+.ne {
+    margin-top: 40px;
+    margin-left: 120px;
+    float: left;
+}
+
+.ne .icon {
+    width: 60px;
+    height: 20px;
+    color: black;
+    list-style: none;
+    display: inline-block;
+}
+
+.ne .icon a {
+    color: black;
+    width: 50px !important;
+    padding-right: 0;
+}
+
+.ne .icon a i {
+    font-size: 20px;
+}
+
+.ne .gh i {
+    color: black;
+    /* padding-left: 10px; */
+}
+
+.ne .fb i {
+    color: black;
+}
+
+.ne .dt i {
+    color: black;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+#wrap {
+    display: inline-block;
+    position: relative;
+    height: 60px;
+    /* float: right; */
+    padding: 0;
+    position: relative;
+}
+
+#search {
+    height: 60px;
+    font-size: 20px;
+    display: inline-block;
+    font-family: "Lato";
+    font-weight: 50;
+    border: none;
+    outline: none;
+    color: black;
+    padding: 3px;
+    padding-right: 60px;
+    width: 0px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: none;
+    z-index: 3;
+    transition: width .4s cubic-bezier(0.000, 0.795, 0.000, 1.000);
+    cursor: pointer;
+}
+
+#search:focus:hover {
+    border-bottom: 5px solid blue;
+}
+input[type="submit"] {
+    height: 67px;
+    width: 63px;
+    display: inline-block;
+    text-indent: -10000px;
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    cursor: pointer;
+    opacity: 0.4;
+    cursor: pointer;
+    transition: opacity .4s ease;
+}
+
+input[type="submit"]:hover {
+    opacity: 0.8;
+}
+
+
+/*sub-menu*/
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f5f5f5;
+    z-index: 1;
+    list-style: none;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.h50px {
+    height: 50px;
+}
+
+.h100px {
+    height: 100px;
+}
+
+.h300px {
+    height: 300px;
+}
+
+.h500px {
+    height: 500px;
+}
+
+.w20px {
+    width: 20px;
+}
+
+.w50px {
+    width: 50px;
+}
+
+.w100px {
+    width: 100px;
+}
+
+.w200px {
+    width: 200px;
+}
